@@ -285,5 +285,23 @@ fig.show()
 ![image](https://github.com/NITHISHKUMAR-P/Predictive-Modeling-of-Breast-Cancer-Survival-Rates-Using-Machine-Learning-Algorithms/assets/93427017/a17d8722-462c-46cb-8694-e6dcbdd8c422)
 ### Correlation:
 ![image](https://github.com/NITHISHKUMAR-P/Predictive-Modeling-of-Breast-Cancer-Survival-Rates-Using-Machine-Learning-Algorithms/assets/93427017/ac9dce41-3721-4955-9d15-04e2f95d2415)
-### 
+### Models:
+#### Logistic Regression:
+![image](https://github.com/NITHISHKUMAR-P/Predictive-Modeling-of-Breast-Cancer-Survival-Rates-Using-Machine-Learning-Algorithms/assets/93427017/ef7958a1-6007-452a-b2a9-f3db48b7c95d)
+### Random Forest:
+![image](https://github.com/NITHISHKUMAR-P/Predictive-Modeling-of-Breast-Cancer-Survival-Rates-Using-Machine-Learning-Algorithms/assets/93427017/f63dc5b8-4616-40a2-965d-80418413e9a7)
+### SVM:
+![image](https://github.com/NITHISHKUMAR-P/Predictive-Modeling-of-Breast-Cancer-Survival-Rates-Using-Machine-Learning-Algorithms/assets/93427017/d31407fe-0107-4e64-b050-eeb9bffcff8c)
+### Gaussian:
+![image](https://github.com/NITHISHKUMAR-P/Predictive-Modeling-of-Breast-Cancer-Survival-Rates-Using-Machine-Learning-Algorithms/assets/93427017/b6f94209-7d6c-4a92-ab04-be13dec51a02)
+### SGD:
+![image](https://github.com/NITHISHKUMAR-P/Predictive-Modeling-of-Breast-Cancer-Survival-Rates-Using-Machine-Learning-Algorithms/assets/93427017/8b8a892c-9ffb-40dc-9441-7b9f4204ab19)
+### XGBB:
+![image](https://github.com/NITHISHKUMAR-P/Predictive-Modeling-of-Breast-Cancer-Survival-Rates-Using-Machine-Learning-Algorithms/assets/93427017/b53415d1-2cf1-47a3-9834-ca34ab4b6bbe)
+### Cat Boost:
+![image](https://github.com/NITHISHKUMAR-P/Predictive-Modeling-of-Breast-Cancer-Survival-Rates-Using-Machine-Learning-Algorithms/assets/93427017/91c2b022-02c7-48f9-a776-a90bae457ce0)
+
+
+
+
 
